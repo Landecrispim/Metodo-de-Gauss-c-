@@ -1,0 +1,4 @@
+g++ seqguss.cpp -o oi
+
+.
+/oi<entrada.txt
